@@ -1,0 +1,36 @@
+body{
+	background-image:url(images/images.jpg);
+	background-size:cover;
+	font-family:Raleway,Open Sans,Droid Sans,arial,sans-serif;
+}
+.bio{
+	width:900px;
+	height:200px;
+	position:absolute;
+	color:#fff;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	font-weight: bold;
+	margin:auto;
+	text-align:center;
+}
+h1,h2{
+	font-size:50px;
+	padding:0;
+	margin:10px;
+	font-weight: bold;
+}
+h2{
+	font-size:15px;
+	margin:10px;
+	font-weight: bold;
+}
+.social-links{margin-top:50px;}
+a{
+	color:#fff;
+	text-decoration:none;
+}
+a:hover{text-decoration:underline}
+.fa{margin:0 10px;}
